@@ -18,4 +18,4 @@ class Logger {
   }
   
   // Esta clase se exporta en este módulo
-  module.exports = Logger
+  module.exports = Pokemon
